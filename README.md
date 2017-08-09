@@ -1,1 +1,1 @@
-# course-repo
+# datasciencecoursera-repo
